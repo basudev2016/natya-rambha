@@ -1,0 +1,17 @@
+# Virtual env & cache
+venv/
+__pycache__/
+*.pyc
+
+# Local data and logs
+logs/
+*.log
+
+# Environment files
+.env
+
+# Streamlit
+.streamlit/
+
+# Misc
+.DS_Store
